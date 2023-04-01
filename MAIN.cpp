@@ -3,6 +3,7 @@ using namespace std;
 void saludar();
 void sumar(int a, int b);
 float dividir(int a, int b);
+float multiplicar (100,200);
 
 int main(){
     saludar();
@@ -20,6 +21,4 @@ void sumar(int a, int b){
 float dividir (int dividendo, int divisor){
     return dividendo/divisor;
 
-
-
-}
+    float multiplicar (2);
