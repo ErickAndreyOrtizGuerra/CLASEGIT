@@ -1,0 +1,3 @@
+C:/Users/HP Core i7/OneDrive/Escritorio/PRUEBAGIT/cmake-build-debug/CMakeFiles/PRUEBAGIT.dir
+C:/Users/HP Core i7/OneDrive/Escritorio/PRUEBAGIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP Core i7/OneDrive/Escritorio/PRUEBAGIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
